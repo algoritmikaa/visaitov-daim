@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    background-image: linear-gradient(white, lightblue);
+    color: rgb(93, 206, 206);
+}
+
+p {
+    color: cadetblue;
+}
+
+link-header{
+    background-image: red;
+}
